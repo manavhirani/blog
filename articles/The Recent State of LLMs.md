@@ -1,3 +1,1 @@
-# The Recent State of LLMs
-
-Blog text test
+I am an empty blog

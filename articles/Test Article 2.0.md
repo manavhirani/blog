@@ -1,3 +1,0 @@
-Is this shown on my blog aye?
-
-Laborum nulla voluptate est excepteur consectetur in do cupidatat minim ut exercitation ullamco dolore aliqua do. Lorem irure id cillum. Commodo reprehenderit Lorem quis aliquip velit mollit laborum nulla voluptate dolor veniam non duis sint. Aliqua occaecat exercitation dolor dolore. Culpa exercitation deserunt qui veniam ullamco laboris sint occaecat quis laboris exercitation proident consequat aute do. Elit dolore minim ad amet minim sint sint velit. Dolore aliquip nostrud nisi.
