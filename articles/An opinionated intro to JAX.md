@@ -16,8 +16,6 @@ JAX is a Python-based framework that allows you to define and execute machine le
 
 Here's an example of how you can use JAX to implement a simple linear regression model:
 
-`pip install jax`
-
 ```python
 import jax
 import jax.numpy as jnp
