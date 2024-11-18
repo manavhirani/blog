@@ -16,6 +16,8 @@ JAX is a Python-based framework that allows you to define and execute machine le
 
 Here's an example of how you can use JAX to implement a simple linear regression model:
 
+`pip install jax`
+
 ```python
 import jax
 import jax.numpy as jnp
@@ -85,7 +87,6 @@ for i in range(1000):
   params = jax.optimizers.adam(params, 0.001).update(params, grads)
   print(f"Iteration {i+1}, Loss: {loss_value:.4f}")
 ```
-
 ## **Conclusion**
 
 JAX is a revolutionary new framework that's changing the game for machine learning. With its unique combination of JIT compilation, automatic differentiation, and XLA acceleration, JAX is poised to become the go-to framework for researchers, engineers, and data scientists alike. So, what are you waiting for? Give JAX a try and experience the future of `machine learning` today!
