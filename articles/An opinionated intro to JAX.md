@@ -88,36 +88,4 @@ for i in range(1000):
 
 ## **Conclusion**
 
-JAX is a revolutionary new framework that's changing the game for machine learning. With its unique combination of JIT compilation, automatic differentiation, and XLA acceleration, JAX is poised to become the go-to framework for researchers, engineers, and data scientists alike. So, what are you waiting for? Give JAX a try and experience the future of machine learning today!
-
-An opinionated intro to JAX
-
-# **JAX: The Revolutionary Newcomer to the Machine Learning Scene**
-
-In the world of machine learning, there's a new kid on the block that's causing a stir. JAX, short for "Jaxenter's Awesome eXtensions" (just kidding, it's actually "Jaxenter's eXtensible Architecture"), is a relatively new open-source framework that's been gaining traction rapidly. And for good reason.
-
-## **What is JAX?**
-
-JAX is a Python-based framework that allows you to define and execute machine learning models using a unique combination of just-in-time (JIT) compilation, automatic differentiation, and XLA (Accelerated Linear Algebra) acceleration. In other words, JAX is a game-changer.
-
-## **Why is JAX so special?**
-
-1. **JIT Compilation**: JAX compiles your code just-in-time, allowing for faster execution and reduced memory usage. This means you can train larger models, faster.
-2. **Automatic Differentiation**: JAX automatically computes gradients for you, eliminating the need for manual differentiation and reducing the risk of errors.
-3. **XLA Acceleration**: JAX uses XLA to accelerate linear algebra operations, making it possible to achieve speeds comparable to specialized hardware like GPUs and TPUs.
-
-## **What makes JAX different from other frameworks?**
-
-1. **Pythonic**: JAX is built on top of Python, making it easy to use and integrate with existing Python code.
-2. **Flexible**: JAX allows you to define models using a variety of programming paradigms, including imperative, functional, and object-oriented programming.
-3. **Extensible**: JAX has a modular architecture, making it easy to add new features and extensions.
-
-## **Who is JAX for?**
-
-1. **Researchers**: JAX is perfect for researchers who want to explore new ideas and experiment with different models without worrying about the underlying infrastructure.
-2. **Engineers**: JAX is ideal for engineers who need to build and deploy machine learning models quickly and efficiently.
-3. **Data Scientists**: JAX is a great choice for data scientists who want to focus on the science rather than the engineering.
-
-## **Conclusion**
-
-JAX is a revolutionary new framework that's changing the game for machine learning. With its unique combination of JIT compilation, automatic differentiation, and XLA acceleration, JAX is poised to become the go-to framework for researchers, engineers, and data scientists alike. So, what are you waiting for? Give JAX a try and experience the future of machine learning today!
+JAX is a revolutionary new framework that's changing the game for machine learning. With its unique combination of JIT compilation, automatic differentiation, and XLA acceleration, JAX is poised to become the go-to framework for researchers, engineers, and data scientists alike. So, what are you waiting for? Give JAX a try and experience the future of `machine learning` today!
