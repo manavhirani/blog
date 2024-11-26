@@ -4,4 +4,4 @@ This number is stable to me in my weird understanding and liking of numbers, it'
 
 Beyond this it indicated something deeper, nope not really, it's mostly a number.
 
-What value do numbers hold in this day and age? Well to begin with, day and age are usually defined by numbers, it is November 2024, that's how I know the age of today. It's 2024 years after a certain events. Wait years? Well a year is 365 days, or a revolution around the sun more or less, the sta
+What value do numbers hold in this day and age? Well to begin with, day and age are usually defined by numbers, it is November 2024, that's how I know the age of today. It's 2024 years after a certain events. Wait years? Well a year is 365 days, or a revolution around the sun more or less, the stars haven't always looked the same in the night sky but you can safely assume most of the night sky has been the way it is for the last 1 million years as most stars have a lifespan of far beyond that. 
