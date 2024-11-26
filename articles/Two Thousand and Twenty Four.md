@@ -8,4 +8,4 @@ What value do numbers hold in this day and age? Well to begin with, day and age 
 
 It is weird how a lot of humanity is dictated by our past, we are a species that self analyses. We're as if a neural network being trained over a billion years. To some, that is exactly what we are, one large reinforcement learning agent. 
 
-If our consciousness is emergent, well so is this very thought, very blog and very existence the author and reader. Emergence is emergent in a way. Therefore it 
+If our consciousness is emergent, well so is this very thought, very blog and very existence the author and reader. Emergence is emergent in a way. This begs the question, is there a theory wher
