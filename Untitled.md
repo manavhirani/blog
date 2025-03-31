@@ -1,0 +1,47 @@
+# Content  
+- Header  
+- The hyperlinks are not clickable on my end  
+- Education  
+- Change "Bachelor of Computer Science" to "Bachelor of Science in Computer Science" to make it more ATS friendly  
+- Skills  
+- Separate them using commas for being more ATS friendly  
+- "Tool & Frameworks" => "Tools & Frameworks"  
+- "Visualization tools" => "Visualization Tools"  
+- For NLP and DL, I would suggest an addition of some more skills from the NLP stack like LangChains, LLaMaIndex, Ollama, Amazon Bedrock, RAG, GANs, FAISS, HuggingFace, Word2Vec, Flask, FastAPI and many many more...  
+- Experience  
+- Split every experience to be in 4 bullet points, in STAR method  
+- Avoid repeating the usage of action words, e.g. "Designed" starts off 4 points, instead use words like "Formulated", "Facilitated", "Orchestrated", "Engineered" etc.  
+- Keep it to one sentence per bullet point  
+- Two experiences use "Skillset" and the others use "Skills"  
+- Projects  
+- Keep roughly 2 - 3 projects that stand out  
+- Any research project that was presented could go into a new section called "Research Publications & Presentations", it helps you stand out for AI/ML roles  
+# Structure & Design  
+- Header  
+- Looks clean and easy to read  
+- Education  
+- The degrees look misaligned, hyphenation and spacing is inconsistent  
+- Skills  
+- Looks off from the entire document  
+- Experience  
+- Last experience is indented ahead of the others  
+- Projects  
+- Alignment of the first heading is off  
+# General Insights  
+- Multiple grammatical mistakes, inconsistent paragraph and text alignment across sections  
+- Content quality is great for NLP and DL roles  
+- Try to keep the latest experience to be more aligned to the roles you are targeting  
+- Other than this, it looks presentable  
+# Suggestions  
+- The resume reflects your skills and competencies very well, especially for Gen AI dev roles  
+- Since the market is super competitive, small improvements and fixes can help you stand out  
+- I used [Reactive Resume - A free and open-source resume builder]([https://rxresu.me/)](https://rxresu.me/\)) to help take care of the design side of things  
+- Since you have roughly 4 experiences, feel free to exceed the page limit instead of keeping it to just 1  
+- Add sections for Leadership & Research  
+- Leadership could have any Assistantships/Volunteering which is still aligned to the role for soft skills, e.g. TA for an NLP class  
+- I would rearrange the experience to be at the top and skills at the bottom  
+- For ATS friendliness, repeat key skills throughout the sections  
+- Tailor the resume for specific job applications by emphasizing relevant skills and experiences (This I can explain over a call to automate using LLMs)  
+- Some people add a brief summary at the top which can be helpful  
+- Include relevant soft skills such as teamwork, communication, or problem-solving throughout  
+- After every update to the resume proofread for typos and grammatical errors to maintain professionalism
