@@ -44,4 +44,4 @@
 - Tailor the resume for specific job applications by emphasizing relevant skills and experiences (This I can explain over a call to automate using LLMs)  
 - Some people add a brief summary at the top which can be helpful  
 - Include relevant soft skills such as teamwork, communication, or problem-solving throughout  
-- After every update to the resume proofread for typos and grammatical errors to maintain professionalism
+- After every update to the resume proofread for typos and grammatical errors to maintain professionalism 
