@@ -5,3 +5,4 @@ Jira there but Notion brought up at Vitali?
 Complified?
 Chatbot for Menus, 
 Answer questions
+Ask for more clarification
