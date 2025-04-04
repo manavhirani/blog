@@ -1,2 +1,2 @@
 Tech stack: Python, SQL
-API Calls, Plugins, OpenAI API for flight trackin
+API Calls, Plugins, OpenAI API for flight tracking?
